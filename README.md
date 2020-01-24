@@ -4,14 +4,14 @@ This is a small module that contains various necessary functions and methods, an
 
 ### How to use it
 ```lua
-require 'extens'
+	require 'extens'
 ```
 
 `extens` makes changes to your global environment and does not return a meaningful return value.
 
 ### What's implemented
 
-See comments in [extens.lua](https://github.com/mzujev/extens/extens.lua) for more details
+See comments in [extens.lua](https://github.com/mzujev/extens/blob/master/extens.lua) for more details
 
 ### Copyright
-See [Copyright.txt](https://github.com/mzujev/extens/Copyright.txt) file for details
+See [Copyright.txt](https://github.com/mzujev/extens/blob/master/Copyright.txt) file for details
